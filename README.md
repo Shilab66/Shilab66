@@ -2,7 +2,8 @@
 
 # Hello, I'm Shilab!
 I do a bunch of different things.
-I’m currently making an xcode app.
+I’m currently making an xcode app and participation in  
+<a href="https://adventofcode.com/">advent of code.</a>
 Reach me by email: aan176972@gmail.com.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shilab66&theme=vue)
