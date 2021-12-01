@@ -6,6 +6,5 @@ I’m currently making an xcode app and participation in
 <a href="https://adventofcode.com/">advent of code.</a>
 Reach me by email: aan176972@gmail.com.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shilab66&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shilab66770&theme=vue)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shilab66)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=Shilab66&custom_title=GitHub%20Stats&count_private=true&show_icons=true&theme=nord&bg_color=-60,0e1420,262c38&icon_color=81A1C1&border_radius=10&border_color=2e3440&hide=stars&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shilab66&theme=nord&bg_color=-45,0e1420,1e2430&border_radius=10&border_color=2e3440&layout=compact&card_width=275)](https://github.com/anuraghazra/github-readme-stats)
